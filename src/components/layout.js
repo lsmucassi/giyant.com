@@ -2,6 +2,31 @@ import React, { useState } from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
+//Styled components
+import { createGlobalStyle, ThemeProvider } from "styled-components"
+import { normalize } from "styled-normalize"
+
+const GlobalStyle = createGlobalStyle`
+  ${normalize}
+  * {
+    text-decoration: none;
+    /* cursor: none */
+  }
+
+  html {
+    box-sizing; border-box;
+    -webkit-front-smoothing: antialiased;
+    font-size: 16px;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: #ffffff;
+    overscroll-behavior: none;
+    overflow-x: hidden;
+  }
+`
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -13,7 +38,23 @@ const Layout = ({ children }) => {
     }
   `)
 
-  return <main>{children}</main>
+  const darkTheme = {
+    background: '#000',
+    text: '#fff'
+  }
+
+  const lightTheme = {
+    background: '#fff',
+    text: '#000'
+  }
+
+
+  return (
+    <ThemeProvider theme>
+      <GlobalStyle />
+      <main>{children}</main>
+    </ThemeProvider>
+  )
 }
 
 Layout.propTypes = {
