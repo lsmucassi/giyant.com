@@ -1,6 +1,5 @@
-# giyant.com
-# Product Name
-> Short blurb about what your product does.
+# Giyant
+> A website for the Giyant institute of science and technology
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
