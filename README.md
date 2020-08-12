@@ -55,7 +55,7 @@ npm test
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
