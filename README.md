@@ -55,11 +55,11 @@ npm test
 
 ## Meta
 
-Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – YourEmail@example.com
+Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – info@giyant.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/giyantinc/](https://github.com/giyantinc/)
 
 ## Contributing
 
