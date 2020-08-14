@@ -56,6 +56,7 @@ npm test
 ## Meta
 
 Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – info@giyant.com
+Giyant – [@giyant_inc](https://instagram.com/giyantinc) – info@giyant.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
