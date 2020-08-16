@@ -56,7 +56,7 @@ npm test
 ## Meta
 
 Giyant – [@giyant_inc](https://twitter.com/giyant_inc) – info@giyant.com
-Giyant – [@giyant_inc](https://instagram.com/giyantinc) – info@giyant.com
+Giyant – [@giyant_inc](https://instagram.com/giyant_inc) – info@giyant.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
@@ -76,4 +76,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/giyantinc/yourproject/wiki
