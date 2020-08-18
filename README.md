@@ -60,7 +60,7 @@ Giyant – [@giyant_inc](https://instagram.com/giyant_inc) – info@giyant.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/giyantinc/](https://github.com/giyantinc/)
+[https://github.com/giyantinc/](https://github.com/giyant/)
 
 ## Contributing
 
